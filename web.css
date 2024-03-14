@@ -1,0 +1,91 @@
+.container {
+  height: 510px;
+  width: 1000px;
+  display: flex;
+  justify-content: space-around;
+  background-image: url("pexels-francesco-ungaro-998641.jpg");
+  background-size: cover;
+  padding-top: 15px;
+  margin: auto;
+}
+header {
+  border: 1px solid;
+  width: 1000px;
+  height: 40px;
+  background-color: rgba(255, 255, 255, 0.952);
+  border-radius: 2px 2px;
+  margin: auto;
+}
+img {
+  width: 300px;
+  height: 350px;
+}
+
+.first {
+  height: 300px;
+  width: 350px;
+  margin-left: 100px;
+  padding: 20px;
+}
+.second {
+  height: 350px;
+  width: 300px;
+  padding-top: 50px;
+}
+h1 {
+  margin: 0;
+  font-size: 30px;
+  color: rgba(255, 255, 255, 1);
+  letter-spacing: 4px;
+}
+h2 {
+  margin-top: 80px;
+  font-size: 40px;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.982);
+  letter-spacing: 2px;
+}
+p {
+  color: rgba(255, 255, 255, 0.495);
+}
+#size {
+  color: whitesmoke;
+  font-size: larger;
+  margin-top: 60px;
+}
+body {
+  background-color:rgba(100, 148, 237, 0.594);
+  background-size: cover;
+}
+input {
+  padding: 10px;
+}
+#button {
+  background-color: rgba(255, 68, 0, 0.831);
+  border-radius: 5px;
+  color: rgba(255, 255, 255, 0.813);
+  width: 130px;
+  font-size: small;
+  letter-spacing: 2px;
+}
+.nav {
+  color: black;
+}
+.navbar {
+  background-color: rgba(0, 0, 0, 0.934);
+  color: rgba(255, 255, 255, 0.941);
+  padding-left: 10px;
+}
+span {
+  margin-right: 30px;
+  font-weight: bolder;
+  text-align: end;
+}
+.inp{
+    margin-left: 360px;
+}
+.search{
+    background-color: rgba(255, 68, 0, 0.849);
+    color: rgba(255, 255, 255, 0.788);
+    border-radius: 2px;
+}
